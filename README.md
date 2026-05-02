@@ -78,7 +78,7 @@
   This project involved designing and developing a full-stack web application using the core concepts learned during the course. It focused on understanding requirements, building a structured frontend and backend, and implementing key functionalities such as user interaction, data handling, and database integration. The project helped in strengthening practical skills in end-to-end application development.
 </p>
 <p>
-  <a href="[<!-- Add link to full report -->](https://github.com/Sree-Surya-Prabha/Influencer-Ranking-Engagement-Analysis/blob/main/SURE%20Trust%20project%20document.pdf)" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="[https://github.com/Sree-Surya-Prabha/Influencer-Ranking-Engagement-Analysis/blob/main/SURE%20Trust%20project%20document.pdf]" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
