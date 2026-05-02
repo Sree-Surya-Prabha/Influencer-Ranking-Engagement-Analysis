@@ -119,7 +119,7 @@ Overall, these sessions played a significant role in improving my confidence, aw
 ### **Impact / Contribution**
 
 - Helped create a supportive environment during the blood donation camp at Government Hospital Chittoor. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings in Chottoor.
+- Actively participated in promoting a greener and cleaner surroundings in Chittoor.
 - Offered personal assistance to elder citizens, strengthening community bonds in Chittoor.
 - Improved skills in communication, coordination, and social responsibility.
 
