@@ -41,8 +41,8 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> A Akshara</p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Email ID:</strong> akshararajan26@gmail.com </p>
+<p><strong>Trainer Designation:</strong> Software Developer at Propel Technology </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -128,12 +128,9 @@ Overall, these sessions played a significant role in improving my confidence, aw
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
-
 <div align="center">
 <img src="https://github.com/Sree-Surya-Prabha/Influencer-Ranking-Engagement-Analysis/blob/main/Plantation.jpeg" alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/Sree-Surya-Prabha/Influencer-Ranking-Engagement-Analysis/blob/main/Community%20Servises.jpeg" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 </div>
 
 ---
@@ -153,6 +150,8 @@ The internship certificate serves as an official acknowledgment of the successfu
 ## **Acknowledgments**
 
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+
+- [Akshara A](https://www.linkedin.com/in/akshara-a/) , Software Developer and Trainer at - [SURE ProEd](https://www.suretrustforruralyouth.com/)
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
